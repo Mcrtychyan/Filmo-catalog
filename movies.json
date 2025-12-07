@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "The Matrix",
+    "year": 1999,
+    "watched": true,
+    "rating": 1
+  },
+  {
+    "id": 2,
+    "title": "One House",
+    "year": 1998,
+    "watched": false,
+    "rating": 1
+  },
+  {
+    "id": 3,
+    "title": "Furion",
+    "year": 1997,
+    "watched": true,
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "title": "ochko",
+    "year": 1900,
+    "watched": false,
+    "rating": 4
+  }
+]
